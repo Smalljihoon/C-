@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp15", "ConsoleApp15\ConsoleApp15.csproj", "{3DC22EFE-D4C3-4AA7-A587-CD352367408E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor\MapEditor.csproj", "{BAC95717-CF2D-4C29-8D42-7D87347CA7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC22EFE-D4C3-4AA7-A587-CD352367408E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC22EFE-D4C3-4AA7-A587-CD352367408E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC22EFE-D4C3-4AA7-A587-CD352367408E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC22EFE-D4C3-4AA7-A587-CD352367408E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC95717-CF2D-4C29-8D42-7D87347CA7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC95717-CF2D-4C29-8D42-7D87347CA7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC95717-CF2D-4C29-8D42-7D87347CA7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC95717-CF2D-4C29-8D42-7D87347CA7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFA90C8-12E2-4F5D-9585-8862C6C00A66}
+	EndGlobalSection
+EndGlobal
